@@ -4,7 +4,7 @@ const config= {
   "database": 'jvmultbo',
   "username": 'jvmultbo',
   "password": '',
-  "host": 'postgres://jvmultbo:DhegOaBySPYxej6eLC4LTe3J7_gGA1L9@arjuna.db.elephantsql.com/jvmultbo',
+  "host": '127.0.0.1',
   "dialect": 'postgres',
   "forceMigrate":true,
 }
