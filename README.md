@@ -1,1 +1,10 @@
-# test001
+This backend code contains endpoints related menu management
+
+Development
+Install the required dependencies using this command:
+
+$ npm install
+
+To start the backend application
+
+$ npm start
