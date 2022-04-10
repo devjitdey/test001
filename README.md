@@ -1,4 +1,4 @@
-This backend code contains endpoints related menu management
+This backend code contains endpoints related to menu management
 
 Development
 Install the required dependencies using this command:
